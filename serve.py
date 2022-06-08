@@ -4,7 +4,7 @@
 #    """
 #    return("some text")
 
-
+pip install flashtext
 from flashtext.keyword import KeywordProcessor
 import pickle
 
