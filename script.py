@@ -9,7 +9,7 @@ app=Flask(__name__)
 # wanted a more complex UI you could put it here.
 @app.route('/')
 def index():
-    return "Up and running!"
+    return "Hello Ahmad!, your model is Up and running!"
 
 # load our pre-trained model & function to run it on
 # new data. This design is based on one proposed by 
