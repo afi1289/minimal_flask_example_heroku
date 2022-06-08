@@ -1,6 +1,2 @@
 gunicorn
 flask
-flashtext
-numpy
-pandas
-future
